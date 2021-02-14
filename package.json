@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kwmorlock/mongodb-googleoauth/issues"
   },
-  "homepage": "https://github.com/kwmorlock/mongodb-googleoauth#readme"
+  "homepage": "https://github.com/kwmorlock/mongodb-googleoauth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
